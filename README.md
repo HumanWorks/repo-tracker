@@ -1,10 +1,10 @@
-# Git Repos Collection
+# Claude Code - Git Repo Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## About This Project
 
-This is an intelligent repository tracking system that helps you monitor and organize any Git repositories you find interesting. 
+This is an intelligent code repository tracking system that helps you monitor and organize any Git repositories you find interesting with the help of Claude Code.
 
 ### What it does
 
