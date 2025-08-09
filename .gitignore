@@ -1,0 +1,17 @@
+# Repository list (locally tracked only)
+REPOS.md
+
+# All cloned repository directories
+# (ignores all directories since they contain the tracked repos)
+*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
