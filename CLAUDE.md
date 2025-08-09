@@ -8,7 +8,7 @@ You are responsible for maintaining this, and bellow are the things you are supp
 Make sure that the repo I ask you to add, does not already exists by comparing the remote repository urls. If that is the case stop and give an error to the user
 </prerequisite>
 
-When I give you a repo (eg. https:////github.com/zhsama/claude-sub-agent/) you should:
+When I give you a repo (eg. https://github.com/zhsama/claude-sub-agent/) you should:
 1. create a directory after the repo's name (eg. claude-sub-agent/)
 2. pull the repository in this directory
 3. Use the Task tool and read the repo's README.md to create a summary of what it does

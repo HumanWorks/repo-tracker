@@ -43,8 +43,8 @@ With thousands of open source projects evolving daily on GitHub, it's challengin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/git-repos-collection.git
-   cd git-repos-collection
+   git clone https://github.com/HumanWorks/repo-tracker.git
+   cd repo-tracker
    ```
 
 2. Open the project in Claude Code
@@ -132,4 +132,4 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/git-repos-collection/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/HumanWorks/repo-tracker/issues) on GitHub.
