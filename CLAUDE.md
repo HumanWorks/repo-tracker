@@ -27,7 +27,7 @@ The repo's mention in @REPOS.md should have this form:
 
 ## Updating repos - DEFAULT BEHAVIOUR
 When I ask you to check for updates or even if I say hi to you, you should do this for each repo:
-1. git pull 
+1. git pull, but MAKE SURE that this will run in the background so that we can update all repos in parallel
 2. Create a summary of what is changed since the previous update
 3. Show me the changes for each repo in list format. Eg:
 <change_log>
@@ -36,6 +36,7 @@ When I ask you to check for updates or even if I say hi to you, you should do th
 2. {change_2}
 ...
 </change_log>
+4. Make sure to update *Last update* section of @REPOS.md with the latest update date and make changes to Name and Description if applicable
 
 ## Deleting repos
 When I ask you to delete a repo make sure to:
